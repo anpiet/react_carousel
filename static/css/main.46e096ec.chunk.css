@@ -1,0 +1,2 @@
+.App{flex-direction:column}.App,.Carousel{display:flex;align-items:center}.Carousel>button{height:20px;cursor:pointer}.Carousel__list{position:relative;padding:0;margin:0;display:flex;overflow:hidden;list-style-type:none}.Carousel__list>li{padding:0 10px}.Carousel .disabled{opacity:0;cursor:auto}
+/*# sourceMappingURL=main.46e096ec.chunk.css.map */
